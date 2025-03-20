@@ -34,7 +34,6 @@ class Program
         }
         return array;
     }
-
     static int SearchWithSentinel(int[] array, int value)
     {
         int n = array.Length;
